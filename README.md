@@ -1,4 +1,4 @@
-<img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png" alt="Banner" width="100%" />
+![Github Banner](banner.png)
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Sachinthaka%20Dilhara&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
