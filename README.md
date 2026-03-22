@@ -1,19 +1,58 @@
-<h1 align="center">Hi 👋, I'm Sachinthaka Dilhara</h1>
-<h3 align="center">I’m a second-year Electronic and Telecommunication Engineering undergraduate at the University of Moratuwa from India</h3>
+<img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png" alt="Banner" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachi1645&label=Profile%20views&color=0e75b6&style=flat" alt="sachi1645" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Sachinthaka%20Dilhara&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachi1645" alt="sachi1645" /></a> </p>
+## About Me
+- I’m a second-year Electronic and Telecommunication Engineering undergraduate at the University of Moratuwa. My key interests include deep learning, machine learning, robotics, and programming, with a strong focus on electronics.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## Programming Languages
+
+<p>
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=blue"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Operating Systems
+<p>
+	<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
+	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachi1645&show_icons=true&locale=en&layout=compact" alt="sachi1645" /></p>
+## Software and Tools
+<p>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=green&labelColor=green"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachi1645&show_icons=true&locale=en" alt="sachi1645" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachi1645&" alt="sachi1645" /></p>
+<h2 align="center"> Connect with Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jaydeepyadav"><img alt="Linkedin" title="Sachinthaka Dilhara Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[https://facebook.com/killerboy.jy](https://www.facebook.com/people/Sachinthaka-Dilhara/pfbid02J464uCKQTvhyybAoNbrr2C4bBAFy3Ud5SoHdZ8fiD7Nwk8h97t6iztZr1HUbrZzSl/)"><img alt="Facebook" title="Sachinthaka Dilhara FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+ </p>
+ <p align="center">
+  <a href="mailto:dilharasachinthaka@gmail.com"><img alt="Gmail" title="Sachinthaka Dilhara Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/94740970375" ><img alt="Whatsapp" title="Sachinthaka Dilhara Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
+<p align="center">
+ <a href="https://github.com/sachi1645"><img alt="Github" title="Sachinthaka Dilhara Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+
+<p align="center">
+    <a href="https://github.com/">
+        <img src="https://komarev.com/ghpvc/?username=sachi1645" alt="Sachinthaka Dilhara" />
+    </a>
+    <a href="https://github.com/sachi1645">
+        <img height="20" src="https://img.shields.io/github/followers/sachi1645?label=follow&logo=github" />
+	</a>
+	 <a href="https://github.com/sachi1645">
+        <img height="20" src="https://img.shields.io/github/stars/sachi1645?label=stars&logo=github" />
+	</a>
+</p>
+
