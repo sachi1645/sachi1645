@@ -32,7 +32,7 @@
 <h2 align="center"> Connect with Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jaydeepyadav"><img alt="Linkedin" title="Sachinthaka Dilhara Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/sachinthaka-dilhara-07a168333"><img alt="Linkedin" title="Sachinthaka Dilhara Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="[https://facebook.com/killerboy.jy](https://www.facebook.com/people/Sachinthaka-Dilhara/pfbid02J464uCKQTvhyybAoNbrr2C4bBAFy3Ud5SoHdZ8fiD7Nwk8h97t6iztZr1HUbrZzSl/)"><img alt="Facebook" title="Sachinthaka Dilhara FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
  </p>
  <p align="center">
